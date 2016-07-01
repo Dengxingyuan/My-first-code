@@ -1,3 +1,5 @@
+# 用turtle函数画了一个彩虹
+
 import turtle
 t = turtle.Turtle()
 t.hideturtle()
